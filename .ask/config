@@ -8,7 +8,7 @@
           "apis": {
             "custom": {
               "endpoint": {
-                "uri": "ask-custom-api-starter-default"
+                "uri": "happy-camper-skill-api"
               }
             }
           }
